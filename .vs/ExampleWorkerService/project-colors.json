@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "174f8b68-6d8a-419d-8654-fedcab155497": {
+      "ProjectGuid": "174f8b68-6d8a-419d-8654-fedcab155497",
+      "DisplayName": "ExampleWorkerService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
