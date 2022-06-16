@@ -59,4 +59,4 @@ C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\obj\
 C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\obj\Debug\net6.0\ExampleWorkerService.pdb
 C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\obj\Debug\net6.0\ExampleWorkerService.genruntimeconfig.cache
 C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\obj\Debug\net6.0\ref\ExampleWorkerService.dll
-C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\obj\Debug\net6.0\refint\ExampleWorkerService.dll
+C:\Eren\GitProject\MongoLogManagement\LogManagementApp\ExampleWorkerService\bin\Debug\net6.0\ref\ExampleWorkerService.dll

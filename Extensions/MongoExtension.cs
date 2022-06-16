@@ -8,7 +8,6 @@ public static class MongoLogExt
         {
             var model = new InformationLog
             {
-                GId=Guid.NewGuid().ToString(),
                 Id=Guid.NewGuid().ToString(),
                 Message = message,
                 Method = method
